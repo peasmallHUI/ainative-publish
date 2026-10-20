@@ -1,36 +1,36 @@
 # AI 引擎日报 · 2026-10-20 文章清单
 
-共 30 条｜中文 7 / 英文 23
+共 30 条｜中文 3 / 英文 27
 
 | # | 语 | 来源 | 标题 | 正文 | 相关度 |
 |---|---|---|---|---|---|
-| 1 | 英 | NVIDIA Developer | AI Native by Design：从构建 NVIDIA TensorRT Model Connect 中汲取的经验 | 13017字 | 23.5 |
-| 2 | 中 | 雷峰网 | 复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 ／ 世界模型50人 | 11081字 | 21.8 |
-| 3 | 英 | arXiv·cs.GR 最新 | ResStreamGS：用于移动体积视频流的残留敏感双流高斯泼溅 | 66424字 | 21.3 |
-| 4 | 中 | 公众号·游戏开发技术教程 | 「UE5」从MotionMatching到MotionBrick | 7197字 | 18.8 |
-| 5 | 英 | arXiv·游戏AI与渲染 | 开放式互动的双刃剑：LLM驱动的NPC如何影响玩家的认知负荷和游戏体验 | 4167字 | 17.8 |
-| 6 | 英 | Simon Willison | LaTeX 渲染器 | 2397字 | 16.8 |
-| 7 | 英 | SIGGRAPH Blog | 皮克斯动画工作室将《Hoppers》的制作带到 SIGGRAPH Asia 2026 | 2321字 | 15.5 |
-| 8 | 英 | arXiv·cs.GR 分类 | 基于色场的粒子分类，用于固体 SPH 模拟中的残余应力检测和减少 | 3444字 | 15.4 |
-| 9 | 英 | arXiv·实时渲染 | 超越 UV 映射：通过表面对齐纹理字段进行网格纹理压缩 | 82181字 | 15.3 |
-| 10 | 英 | arXiv·cs.GR 最新 | PhysSkin++：通过自监督神经蒙皮实现实时且可推广的基于物理的动画 | 80355字 | 14.5 |
-| 11 | 英 | arXiv·cs.GR 分类 | Walk in Envelopes：通过认证的解决方案边界实现高效分支 Walk-on-Spheres | 67514字 | 13.9 |
-| 12 | 英 | arXiv·cs.GR 最新 | VisibilitySplat：光线追踪遮挡，通过 3D 高斯分布进行重新照明 | 41300字 | 13.1 |
-| 13 | 英 | JCGT | 用于神经辅助光线追踪的 BVH 编码 | 0字 | 12.5 |
-| 14 | 英 | arXiv·引擎+AI | AgentGarten：不断发展的代理的代码世界 | 78037字 | 11.9 |
-| 15 | 英 | arXiv·神经渲染 | MeshSuite：基于三角形和网格的神经渲染的统一基准 | 75558字 | 11.7 |
-| 16 | 中 | 雷峰网 | 华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026 | 2755字 | 11.2 |
-| 17 | 英 | arXiv·cs.GR 最新 | GLoD-LVSM：学习大视图合成模型的基于几何的连续 LoD 场景表示 | 51098字 | 10.3 |
-| 18 | 英 | arXiv·cs.GR 最新 | Stable Signer V3：4D 可变形原始泼溅是您手语制作所需的一切 | 58055字 | 10.2 |
-| 19 | 英 | arXiv·cs.GR 最新 | X-Splat：用于联合 RGB 和 X 射线 3D 重建的统一高斯分布 | 87255字 | 10.1 |
-| 20 | 中 | 雷峰网 | Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀 | 4643字 | 10.1 |
-| 21 | 英 | arXiv·cs.GR 最新 | 均匀分布单位四元数的压缩 | 105658字 | 9.2 |
-| 22 | 英 | Aras' website | 展开循环，使着色器速度加快 10 倍 | 11836字 | 9.1 |
-| 23 | 英 | arXiv·cs.GR 最新 | 既见森林又见树木：重用整体 3D 先验进行部分分解生成 | 72268字 | 7.9 |
-| 24 | 英 | arXiv·cs.GR 最新 | 从草图到场景：从标记草图重建可重新点燃的服装 | 45046字 | 7.8 |
-| 25 | 英 | arXiv·cs.GR 最新 | 无镶嵌置换曲面上的几何查询 | 3781字 | 7.7 |
-| 26 | 中 | 雷峰网 | 启元机器人新进展：北大董豪团队推出 HIL-UMI，让后训练摆脱「真机依赖」 | 3861字 | 6.7 |
-| 27 | 英 | Simon Willison | 使用文档.currentScript 进行内联渲染 | 582字 | 6.6 |
-| 28 | 英 | JCGT | 鲁棒的 BVH 射线遍历 | 0字 | 4.2 |
-| 29 | 中 | 雷峰网 | 光量子计算，距离真正的产业化还有多远？ | 4188字 | 4.2 |
-| 30 | 中 | 雷峰网 | 射频计算：探索智能边界｜CNCC 2026 | 3790字 | 0.3 |
+| 1 | 英 | arXiv·引擎+AI | DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End | 72991字 | 36.8 |
+| 2 | 英 | arXiv·cs.GR 最新 | ResStreamGS: Residual-Sensitive Dual-Stream Gaussian Splatti | 66424字 | 27.4 |
+| 3 | 英 | arXiv·实时渲染 | RefracGS: Novel View Synthesis Through Refractive Water Surf | 66401字 | 24.5 |
+| 4 | 英 | NVIDIA Developer | AI Native by Design: Lessons Learned from Building NVIDIA Te | 13017字 | 23.4 |
+| 5 | 英 | arXiv·游戏AI与渲染 | LLM-Guided Reinforcement Learning for Adaptive NPC Behavior  | 68155字 | 23.0 |
+| 6 | 英 | arXiv·实时渲染 | Struct-GStream: Towards Efficient Free-Viewpoint Video Strea | 57078字 | 22.7 |
+| 7 | 英 | arXiv·cs.GR 最新 | VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D | 41300字 | 21.3 |
+| 8 | 英 | arXiv·实时渲染 | WilLaGS: Latent-Conditional 3D Appearance Fields for Robust  | 45573字 | 21.2 |
+| 9 | 英 | arXiv·引擎+AI | Spectral Rendering Without a Spectral Renderer: Learned Spec | 77288字 | 21.1 |
+| 10 | 英 | arXiv·游戏AI与渲染 | The Double-Edged Sword of Open-Ended Interaction: How LLM-Dr | 4167字 | 20.8 |
+| 11 | 英 | arXiv·引擎+AI | AgentGarten: Code Worlds for Evolving Agents | 78037字 | 20.7 |
+| 12 | 英 | arXiv·实时渲染 | Beyond UV Mapping: Mesh Texture Compression via Surface-Alig | 82181字 | 20.1 |
+| 13 | 英 | arXiv·神经渲染 | MetaSapiens v2: Advancing Real-Time Foveated Neural Renderin | 75408字 | 19.5 |
+| 14 | 英 | arXiv·实时渲染 | Real-time Rendering of Pre-integrated Neural Emitters | 58235字 | 18.9 |
+| 15 | 中 | 公众号·游戏开发技术教程 | 「UE5」从MotionMatching到MotionBrick | 7197字 | 18.8 |
+| 16 | 英 | arXiv·游戏渲染 | Marionette: Predicting World States, Rendering Geometry, Pai | 96736字 | 18.1 |
+| 17 | 英 | arXiv·神经渲染 | MeshSuite: A Unified Benchmark for Triangle- and Mesh-Based  | 75558字 | 18.1 |
+| 18 | 英 | arXiv·神经渲染 | Gaussian Light Transport | 52879字 | 18.1 |
+| 19 | 英 | arXiv·神经渲染 | RenderFormer-V2: Neural Rendering with Heterogeneous Scene P | 67377字 | 17.5 |
+| 20 | 英 | Simon Willison | LaTeX renderer | 2397字 | 16.8 |
+| 21 | 英 | arXiv·cs.GR 最新 | X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray  | 87255字 | 16.6 |
+| 22 | 英 | SIGGRAPH Blog | Pixar Animation Studios Brings the Making of ‘Hoppers’ to SI | 2321字 | 16.0 |
+| 23 | 英 | ACM TOG（SIGGRAPH | A Neural Frame Streaming Framework with a Simultaneous Prior | 0字 | 15.2 |
+| 24 | 英 | JCGT | BVH Encoding for Neural-Assisted Ray Tracing | 0字 | 12.4 |
+| 25 | 中 | 雷峰网 | 华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026 | 2755字 | 11.2 |
+| 26 | 中 | 雷峰网 | Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀 | 4643字 | 10.1 |
+| 27 | 英 | Aras' website | Unroll a loop, make shader 10x faster | 0字 | 9.1 |
+| 28 | 英 | Simon Willison | Inline rendering with document​.currentScript | 0字 | 6.6 |
+| 29 | 英 | Eurogamer / Digi | "We have to go a different path" - Krafton thinks PUBG Ded.N | 0字 | 5.5 |
+| 30 | 英 | JCGT | Robust BVH Ray Traversal | 0字 | 4.2 |
