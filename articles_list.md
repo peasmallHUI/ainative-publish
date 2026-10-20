@@ -1,6 +1,6 @@
 # AI 引擎日报 · 2026-10-20 文章清单
 
-共 30 条｜中文 3 / 英文 27
+共 29 条｜中文 3 / 英文 26
 
 | # | 语 | 来源 | 标题 | 正文 | 相关度 |
 |---|---|---|---|---|---|
@@ -25,12 +25,11 @@
 | 19 | 英 | arXiv·神经渲染 | RenderFormer-V2: Neural Rendering with Heterogeneous Scene P | 67377字 | 17.5 |
 | 20 | 英 | Simon Willison | LaTeX renderer | 2397字 | 16.8 |
 | 21 | 英 | arXiv·cs.GR 最新 | X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray  | 87255字 | 16.6 |
-| 22 | 英 | SIGGRAPH Blog | Pixar Animation Studios Brings the Making of ‘Hoppers’ to SI | 2321字 | 16.0 |
-| 23 | 英 | ACM TOG（SIGGRAPH | A Neural Frame Streaming Framework with a Simultaneous Prior | 0字 | 15.2 |
-| 24 | 英 | JCGT | BVH Encoding for Neural-Assisted Ray Tracing | 0字 | 12.4 |
-| 25 | 中 | 雷峰网 | 华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026 | 2755字 | 11.2 |
-| 26 | 中 | 雷峰网 | Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀 | 4643字 | 10.1 |
-| 27 | 英 | Aras' website | Unroll a loop, make shader 10x faster | 0字 | 9.1 |
-| 28 | 英 | Simon Willison | Inline rendering with document​.currentScript | 0字 | 6.6 |
-| 29 | 英 | Eurogamer / Digi | "We have to go a different path" - Krafton thinks PUBG Ded.N | 0字 | 5.5 |
-| 30 | 英 | JCGT | Robust BVH Ray Traversal | 0字 | 4.2 |
+| 22 | 英 | arXiv·实时渲染 | DiffSoup: Direct Differentiable Rasterization of Triangle So | 70346字 | 16.2 |
+| 23 | 英 | SIGGRAPH Blog | Pixar Animation Studios Brings the Making of ‘Hoppers’ to SI | 2321字 | 16.0 |
+| 24 | 英 | arXiv·cs.GR 最新 | Colour-Field Based Particle Categorization for Residual Stre | 3444字 | 15.6 |
+| 25 | 英 | arXiv·神经渲染 | View-Adaptive Renderer for View-Consistent 2D-to-3D Generati | 4221字 | 15.6 |
+| 26 | 英 | arXiv·cs.GR 最新 | GLoD-LVSM: Learning Geometry-Grounded Continuous-LoD Scene R | 51098字 | 15.4 |
+| 27 | 英 | arXiv·cs.GR 最新 | PhysSkin++: Real-Time and Generalizable Physics-Based Animat | 80355字 | 15.2 |
+| 28 | 中 | 雷峰网 | 华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026 | 2755字 | 11.2 |
+| 29 | 中 | 雷峰网 | Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀 | 4643字 | 10.1 |
