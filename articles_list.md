@@ -1,6 +1,6 @@
 # AI 引擎日报 · 2026-10-21 文章清单
 
-共 27 条｜中文 5 / 英文 22
+共 27 条｜中文 4 / 英文 23
 
 feed 的 pubDate 统一用本期推送时间（2026-10-21，第 1 条最新），原文发布日期另列在最后一列。
 
@@ -8,15 +8,15 @@ feed 的 pubDate 统一用本期推送时间（2026-10-21，第 1 条最新）�
 |---|---|---|---|---|---|---|
 | 1 | AI Native Engine | 英 | arXiv·cs.CV | Waypoint-1.5：跑在消费级显卡上的实时交互式视频世界模型 | 34254字 | 2026-09-30 |
 | 2 | AI Native Engine | 中 | 公众号·陈嗣俊 | 一张 5090 跑 60 帧游戏世界模型：拆解 Matrix-Game 4.0 的「引擎接地」架构 | 6986字 | 2026-10-18 |
-| 3 | AI Native Engine | 中 | 公众号·海盗Sharp | 112 毫秒、单卡 5090：把世界状态从视频模型搬回引擎 | 2721字 | 2026-10-16 |
-| 4 | AI Native Engine | 英 | arXiv·cs.AI | MHWA：多时间尺度的分层「世界-动作」模型 | 39394字 | 2026-10-10 |
-| 5 | AI Native Engine | 英 | arXiv·cs.AI | 在梦里学会、在真局里赢：十英雄 MOBA 的连续 Dyna 闭环 | 31834字 | 2026-10-06 |
-| 6 | AI Native Engine | 英 | arXiv·cs.AI | World Editing：在可执行世界里做分层干预 | 59904字 | 2026-10-01 |
-| 7 | AI Native Engine | 英 | arXiv·cs.CV | Code2Games：让编码智能体生成可玩世界，并落到 UE5 里跑通 | 56206字 | 2026-10-04 |
-| 8 | AI Native Engine | 英 | arXiv·cs.AI | GAMEGO：用真实资产锚定的合成轨迹训练游戏开发智能体 | 74210字 | 2026-10-02 |
-| 9 | AI Native Engine | 英 | arXiv·cs.AI | Player-1：用合成经验把电脑操作智能体练成游戏玩家 | 45470字 | 2026-10-14 |
-| 10 | AI Native Engine | 英 | arXiv·cs.LG | DashVMC：活游戏里的实时世界模型控制 | 27741字 | 2026-09-30 |
-| 11 | AI Native Engine | 中 | 公众号·007游戏Agent | 让 AI 智能体能改引擎：确定性模拟、命令模式与文本化验证 | 1458字 | 2026-10-14 |
+| 3 | AI Native Engine | 英 | arXiv·cs.AI | MHWA：多时间尺度的分层「世界-动作」模型 | 39394字 | 2026-10-10 |
+| 4 | AI Native Engine | 英 | arXiv·cs.AI | 在梦里学会、在真局里赢：十英雄 MOBA 的连续 Dyna 闭环 | 31834字 | 2026-10-06 |
+| 5 | AI Native Engine | 英 | arXiv·cs.AI | World Editing：在可执行世界里做分层干预 | 59904字 | 2026-10-01 |
+| 6 | AI Native Engine | 英 | arXiv·cs.CV | Code2Games：让编码智能体生成可玩世界，并落到 UE5 里跑通 | 56206字 | 2026-10-04 |
+| 7 | AI Native Engine | 英 | arXiv·cs.AI | GAMEGO：用真实资产锚定的合成轨迹训练游戏开发智能体 | 74210字 | 2026-10-02 |
+| 8 | AI Native Engine | 英 | arXiv·cs.AI | Player-1：用合成经验把电脑操作智能体练成游戏玩家 | 45470字 | 2026-10-14 |
+| 9 | AI Native Engine | 英 | arXiv·cs.LG | DashVMC：活游戏里的实时世界模型控制 | 27741字 | 2026-09-30 |
+| 10 | AI Native Engine | 中 | 公众号·007游戏Agent | 让 AI 智能体能改引擎：确定性模拟、命令模式与文本化验证 | 1458字 | 2026-10-14 |
+| 11 | AI Rendering | 英 | arXiv·cs.CV | SolarRenderer：把引擎产出的粗结构渲染成写实视频的四步生成器 | 72521字 | 2026-10-20 |
 | 12 | AI Rendering | 英 | arXiv·cs.GR | 面向高光的光照缓存：反射方向参数化 + 粗糙度相关的预滤波辐射 | 12774字 | 2026-10-08 |
 | 13 | AI Rendering | 英 | arXiv·cs.GR | 预积分神经发光体：把复杂光源的直接光照预先烙进神经场 | 46290字 | 2026-10-05 |
 | 14 | AI Rendering | 英 | arXiv·cs.CV | Mobile-4DGS：手机上的静态与动态高斯泼溅统一框架 | 57409字 | 2026-10-10 |
