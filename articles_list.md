@@ -1,36 +1,33 @@
-# AI 引擎日报 · 2026-10-20 文章清单
+# AI 引擎日报 · 2026-10-21 文章清单
 
-共 30 条｜中文 0 / 英文 30
+共 27 条｜中文 5 / 英文 22
 
 | # | 主题 | 语 | 来源 | 标题 | 正文 |
 |---|---|---|---|---|---|
-| 1 | AI Native Engine | 英 | arXiv·世界模型+游戏 | CivWorldBench：语言世界模型在结构化多智能体文明模拟中的评测 | 101012字 |
-| 2 | AI Native Engine | 英 | arXiv·生成式玩法 | Programmable World Model：可编程的世界模型 | 61484字 |
-| 3 | AI Native Engine | 英 | arXiv·世界模型+游戏 | CtrlCache：控制感知缓存加速交互式视频世界模型 | 55567字 |
-| 4 | AI Native Engine | 英 | arXiv·生成式玩法 | RIGen：从「跟随动作」到生成式玩法里的双向互动 | 78542字 |
-| 5 | AI Native Engine | 英 | arXiv·智能体+游戏 | WorldSolver：LLM 智能体能靠生成求解器模拟物理吗 | 65524字 |
-| 6 | AI Native Engine | 英 | arXiv·智能体+游戏 | Learn2Play Bench：LLM 智能体在陌生环境里学得会吗 | 113626字 |
-| 7 | AI Native Engine | 英 | arXiv·智能体+游戏 | SpeedrunBench：用速通任务考察 LLM 智能体的长程规划 | 101544字 |
-| 8 | AI Native Engine | 英 | AI and Games | AI 游戏生成正在打一场「向下竞价」的战争 | 2590字 |
-| 9 | AI Native Engine | 英 | arXiv·世界模型+游戏 | Esports World Model Dataset：用电竞数据训世界模型 | 63778字 |
-| 10 | AI Native Engine | 英 | arXiv·世界模型+游戏 | ActionRoPE：把动作当作坐标，换取世界模型的时空一致性 | 54175字 |
-| 11 | AI Native Engine | 英 | arXiv·生成式玩法 | Recursive Game Creator：面向产品级体验的智能体游戏生成 | 40384字 |
-| 12 | AI Native Engine | 英 | arXiv·世界模型+游戏 | Neurosymbolic Learning：可解释的世界模型 | 16173字 |
-| 13 | AI Rendering | 英 | arXiv·cs.GR | Walk in Envelopes：用可认证解界加速分支式球面游走 | 67337字 |
-| 14 | AI Rendering | 英 | JCGT | BVH Encoding for Neural-Assisted Ray Tracing | 36549字 |
-| 15 | AI Rendering | 英 | arXiv·cs.GR | Stable Signer V3：用 4D 可变形基元泼溅做手语数字人 | 57598字 |
-| 16 | AI Rendering | 英 | arXiv·cs.GR | SwitchSplat：从随手拍摄的场景里学出可切换的物体状态 | 71835字 |
-| 17 | AI Rendering | 英 | arXiv·cs.GR | OUGS：3DGS 里按物体感知不确定性挑下一个视角 | 55261字 |
-| 18 | AI Rendering | 英 | arXiv·cs.GR | PhysLDM：用潜在扩散做高保真可形变物体模拟 | 124784字 |
-| 19 | AI Rendering | 英 | arXiv·cs.GR | FluidGen：物理感知的流体视频生成 | 53621字 |
-| 20 | AI Rendering | 英 | NVIDIA Developer | DLSS 5 与 3D 引导神经渲染：NVIDIA 给游戏开发者的新工具 | 8064字 |
-| 21 | AI Rendering | 英 | arXiv·cs.GR | OrTeN：地形与线扫相机轨迹的联合神经逆渲染 | 39359字 |
-| 22 | 游戏引擎 | 英 | arXiv·cs.GR | PhysSkin++：自监督神经蒙皮实现实时且可泛化的物理动画 | 79674字 |
-| 23 | 游戏引擎 | 英 | Graphics Program | 图形编程周报 #458：四元数 log/exp 的 SIMD 实现与本周精选 | 4177字 |
-| 24 | 游戏引擎 | 英 | AI and Games | Capcom 的 AI 布局为何「翻译失灵」 | 9100字 |
-| 25 | 游戏引擎 | 英 | arXiv·cs.PL | CrossTL：跨语言 GPU 程序翻译如何保留源语言语义 | 144624字 |
-| 26 | 游戏引擎 | 英 | arXiv·cs.GR | SkinTokens：统一自回归绑定所需的紧凑骨骼表示 | 85292字 |
-| 27 | 游戏引擎 | 英 | arXiv·cs.GR | MOMO：从移动声源还原人体动作 | 71149字 |
-| 28 | 图形学 | 英 | SIGGRAPH Blog | 皮克斯《Hoppers》的制作幕后搬上 SIGGRAPH Asia 2026 | 2318字 |
-| 29 | 图形学 | 英 | arXiv·cs.GR | 量化的高阶矩编码 LBM：更快的格子玻尔兹曼流体模拟 | 121541字 |
-| 30 | 图形学 | 英 | arXiv·cs.GR | Open-Form Geometric Style Transfer：开放形态的几何风格迁移 | 72913字 |
+| 1 | AI Native Engine | 英 | arXiv·cs.CV | Waypoint-1.5：跑在消费级显卡上的实时交互式视频世界模型 | 43623字 |
+| 2 | AI Native Engine | 中 | 公众号·陈嗣俊 | 一张 5090 跑 60 帧游戏世界模型：拆解 Matrix-Game 4.0 的「引擎接地」架构 | 6871字 |
+| 3 | AI Native Engine | 中 | 公众号·海盗Sharp | 112 毫秒、单卡 5090：把世界状态从视频模型搬回引擎 | 2720字 |
+| 4 | AI Native Engine | 英 | arXiv·cs.AI | MHWA：多时间尺度的分层「世界-动作」模型 | 68619字 |
+| 5 | AI Native Engine | 英 | arXiv·cs.AI | 在梦里学会、在真局里赢：十英雄 MOBA 的连续 Dyna 闭环 | 36264字 |
+| 6 | AI Native Engine | 英 | arXiv·cs.AI | World Editing：在可执行世界里做分层干预 | 83649字 |
+| 7 | AI Native Engine | 英 | arXiv·cs.CV | Code2Games：让编码智能体生成可玩世界，并落到 UE5 里跑通 | 108726字 |
+| 8 | AI Native Engine | 英 | arXiv·cs.AI | GAMEGO：用真实资产锚定的合成轨迹训练游戏开发智能体 | 78854字 |
+| 9 | AI Native Engine | 英 | arXiv·cs.AI | Player-1：用合成经验把电脑操作智能体练成游戏玩家 | 60053字 |
+| 10 | AI Native Engine | 英 | arXiv·cs.LG | DashVMC：活游戏里的实时世界模型控制 | 32533字 |
+| 11 | AI Native Engine | 中 | 公众号·007游戏Agent | 让 AI 智能体能改引擎：确定性模拟、命令模式与文本化验证 | 1458字 |
+| 12 | AI Rendering | 英 | arXiv·cs.GR | 面向高光的光照缓存：反射方向参数化 + 粗糙度相关的预滤波辐射 | 18662字 |
+| 13 | AI Rendering | 英 | arXiv·cs.GR | 预积分神经发光体：把复杂光源的直接光照预先烙进神经场 | 57834字 |
+| 14 | AI Rendering | 英 | arXiv·cs.CV | Mobile-4DGS：手机上的静态与动态高斯泼溅统一框架 | 101713字 |
+| 15 | AI Rendering | 英 | arXiv·cs.GR | H-Ray：为 3D 高斯渲染设计的分层混合光线追踪架构 | 49069字 |
+| 16 | AI Rendering | 英 | arXiv·cs.CV | TETRIS-4DGS：几秒完成、压缩率 40 倍以上的 4D 高斯后训练压缩 | 32571字 |
+| 17 | AI Rendering | 英 | arXiv·cs.CV | RDCompGS：把 3DGS 压缩当成率失真优化问题 | 44824字 |
+| 18 | AI Rendering | 英 | arXiv·cs.GR | Make It Flow：给静态 3DGS 场景里的水面加上运动 | 59757字 |
+| 19 | AI Rendering | 英 | arXiv·cs.CV | 3DGS 实时场景重建综述：方法、系统与权衡 | 75127字 |
+| 20 | AI Rendering | 英 | arXiv·cs.CV | 一套基就够动所有人：用高斯混合形状蒸馏做实时数字人 | 81256字 |
+| 21 | 游戏引擎 | 英 | Aras' website | 展开一个循环，着色器快了 10 倍 | 11715字 |
+| 22 | 游戏引擎 | 英 | DirectX Dev Blog | Advanced Shader Delivery 扩展到 Intel、NVIDIA 与高通平台 | 3372字 |
+| 23 | 游戏引擎 | 英 | arXiv·cs.GR | 不要 UV 了：用贴合表面的纹理场做网格纹理压缩 | 81596字 |
+| 24 | 游戏引擎 | 中 | 公众号·UWA | 屏幕空间反射算法深度分析及其在 URP 中的实现（一） | 19376字 |
+| 25 | 游戏引擎 | 中 | 公众号·UWA | UGUI 性能排查：隐藏血条后耗时下降，减顶点为何没改善 | 2091字 |
+| 26 | 游戏引擎 | 英 | Bevy | Bevy 0.20：Solari 实时路径追踪与 DLSS | 22509字 |
+| 27 | 游戏引擎 | 英 | Godot | Godot 4.8 beta 1：特性冻结，新增原生 Trail3D | 12880字 |
