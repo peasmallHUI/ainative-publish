@@ -7,7 +7,7 @@ feed 的 pubDate 统一用本期推送时间（2026-10-21，第 1 条最新）�
 | # | 主题 | 语 | 来源 | 标题 | 正文 | 原文 |
 |---|---|---|---|---|---|---|
 | 1 | AI Native Engine | 英 | arXiv·cs.CV | Waypoint-1.5：跑在消费级显卡上的实时交互式视频世界模型 | 34254字 | 2026-09-30 |
-| 2 | AI Native Engine | 英 | Viggle Research（ | JST-2：把世界拆成持久的 3D「原子」，物理原生的世界基础模型 | 6237字 | 2026-10-19 |
+| 2 | AI Native Engine | 英 | Viggle Research（ | JST-2：把世界拆成持久的 3D「原子」，物理原生的世界基础模型 | 6114字 | 2026-10-19 |
 | 3 | AI Native Engine | 中 | 公众号·陈嗣俊 | 一张 5090 跑 60 帧游戏世界模型：拆解 Matrix-Game 4.0 的「引擎接地」架构 | 6986字 | 2026-10-18 |
 | 4 | AI Native Engine | 英 | arXiv·cs.AI | MHWA：多时间尺度的分层「世界-动作」模型 | 39394字 | 2026-10-10 |
 | 5 | AI Native Engine | 英 | arXiv·cs.AI | 在梦里学会、在真局里赢：十英雄 MOBA 的连续 Dyna 闭环 | 31834字 | 2026-10-06 |
