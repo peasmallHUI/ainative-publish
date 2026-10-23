@@ -8,11 +8,11 @@ feed 的 pubDate 统一用本期推送时间（2026-10-23，第 1 条最新）�
 |---|---|---|---|---|---|---|
 | 1 | AI Native Engine | 英 | arXiv·生成式玩法 | Matrix-Game 4.0：引擎管规则、视频模型管画面，单卡 5090 跑 480p 60 帧 | 41138字 | 2026-10-20 |
 | 2 | AI Native Engine | 英 | arXiv·cs.GR | WorldStream：世界地图边跑边生成，走回来的地方还带着你改过的东西 | 43945字 | 2026-10-20 |
-| 3 | AI Native Engine | 英 | arXiv·生成式玩法 | GameGo：先让 agent 写出合格的需求文档，再谈一句话生成游戏 | 74210字 | 2026-10-02 |
-| 4 | AI Native Engine | 英 | arXiv·生成式玩法 | Code2Games：让编码智能体从一句话造出可玩世界，再搬进 UE5 调试到能跑 | 56182字 | 2026-10-04 |
+| 3 | AI Native Engine | 英 | arXiv·引擎架构 | ML-IST：碰撞内切球树别再贪心一遍遍建，网络一次预测完，已接进 Jolt 与 Bullet | 41201字 | 2026-10-08 |
+| 4 | AI Native Engine | 英 | arXiv·引擎架构 | PhysSkin++：不用逐物体训网络，也能给任意形状实时算出物理正确的形变 | 57334字 | 2026-10-19 |
 | 5 | AI Native Engine | 英 | arXiv·cs.GR | Walk Like This：给一段风格参考片段，物理角色就能用那种走法听摇杆 | 47285字 | 2026-10-13 |
-| 6 | AI Native Engine | 英 | arXiv·生成式玩法 | PREFER：把 LLM 当虚拟试玩员，按玩家画像改规则、再试玩验收 | 59286字 | 2026-10-13 |
-| 7 | AI Native Engine | 英 | arXiv·生成式玩法 | Player-1：把「会用电脑」的模型练成「会玩游戏」，用合成环境补经验 | 45470字 | 2026-10-14 |
+| 6 | AI Native Engine | 英 | arXiv·引擎架构 | GALA：摆物件别只看包围盒，语言模型直接读点云，摆出支撑、容纳与无穿模 | 62532字 | 2026-10-20 |
+| 7 | AI Native Engine | 英 | arXiv·引擎架构 | 窄相碰撞检测的检查顺序也能学：先查最可能撞的那一对，把后面全跳过 | 41963字 | 2026-09-24 |
 | 8 | AI Rendering | 英 | arXiv·cs.GR | 神经发光体：把灯具周围的直接光照预先烘成场，着色时一次网络求值搞定 | 46290字 | 2026-10-05 |
 | 9 | AI Rendering | 英 | arXiv·cs.GR | 给神经辐射缓存补上高光：按反射方向参数化，缓存预滤波入射辐射 | 12774字 | 2026-10-08 |
 | 10 | AI Rendering | 英 | arXiv·cs.GR | H2-Ray：3DGS 走光追也能不炸，负载均衡 BVH + 路径复用 + 统一求交 | 27504字 | 2026-10-09 |
