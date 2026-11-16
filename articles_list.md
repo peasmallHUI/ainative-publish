@@ -1,6 +1,6 @@
 # AI 引擎日报 · 2026-11-16 文章清单
 
-共 6 条｜中文 1 / 英文 5
+共 9 条｜中文 1 / 英文 8
 
 feed 的 pubDate 统一用本期推送时间（2026-11-16，第 1 条最新），原文发布日期另列在最后一列。
 
@@ -8,7 +8,10 @@ feed 的 pubDate 统一用本期推送时间（2026-11-16，第 1 条最新）�
 |---|---|---|---|---|---|---|
 | 1 | AI Native Engine | 英 | arXiv·cs.CV | 用 Unity 当标准答案来考世界模型：WMEval 不看画面像不像，只看状态对不对 | 51083字 | 2026-10-27 |
 | 2 | AI Native Engine | 英 | arXiv·cs.GR | 物理驱动的角色控制器能跑了，但没人验过动作质量：这篇把它搬进 Unity3D 与 WebXR 实测 | 56994字 | 2026-10-19 |
-| 3 | AI Rendering | 中 | 知乎 | 把 DLSS 5 接进仿真引擎：RTX 50 独占、SDK 未公开，社区只能直接调 NGX 的 feature 18 | 6603字 | 2026-10-28 |
-| 4 | AI Rendering | 英 | GitHub·apex-comp | Apex 把神经渲染做成开源跨厂商方案：FG 已 beta，SR/RR 在路上，还附一个「录制上采样输入」的对比工具 | 6611字 | 2026-11-14 |
-| 5 | AI Rendering | 英 | arXiv·cs.CV | 把手机随手拍变成电影感：FilmTogether 要同时升级光照、服装与材质，但不动构图、身份与运动 | 32319字 | 2026-10-31 |
-| 6 | AI Rendering | 英 | arXiv·cs.CV | 重打光要精确控光：直接拿路径追踪的辐照度当控制信号会带伪影，JointLight 改成「异步联合去噪」 | 34787字 | 2026-10-21 |
+| 3 | AI Native Engine | 英 | NVIDIA Developer | NVIDIA 把世界模型做成「平台」：Cosmos Framework 出 recipes 与 agent skills，NIM | 17429字 | 2026-11-02 |
+| 4 | AI Rendering | 英 | AMD GPUOpen | AMD FSR「Redstone」SDK 2.4：ML 上采样下放到 RX 6000 与 Ryzen APU，还补上 Vulka | 24196字 | 2026-10-28 |
+| 5 | AI Rendering | 英 | AMD GPUOpen | FSR 上采样首次进 XBOX 主机：Full INT8 与 Lite INT8 双模型，示例可在运行时切换对比 | 10137字 | 2026-11-04 |
+| 6 | AI Rendering | 中 | 知乎 | 把 DLSS 5 接进仿真引擎：RTX 50 独占、SDK 未公开，社区只能直接调 NGX 的 feature 18 | 6603字 | 2026-10-28 |
+| 7 | AI Rendering | 英 | GitHub·apex-comp | Apex 把神经渲染做成开源跨厂商方案：FG 已 beta，SR/RR 在路上，还附一个「录制上采样输入」的对比工具 | 6611字 | 2026-11-14 |
+| 8 | AI Rendering | 英 | arXiv·cs.CV | 把手机随手拍变成电影感：FilmTogether 要同时升级光照、服装与材质，但不动构图、身份与运动 | 32319字 | 2026-10-31 |
+| 9 | AI Rendering | 英 | arXiv·cs.CV | 重打光要精确控光：直接拿路径追踪的辐照度当控制信号会带伪影，JointLight 改成「异步联合去噪」 | 34787字 | 2026-10-21 |
