@@ -1,17 +1,18 @@
-# AI 引擎日报 · 2026-11-16 文章清单
+# AI 引擎日报 · 2026-11-17 文章清单
 
-共 9 条｜中文 1 / 英文 8
+共 10 条｜中文 0 / 英文 10
 
-feed 的 pubDate 统一用本期推送时间（2026-11-16，第 1 条最新），原文发布日期另列在最后一列。
+feed 的 pubDate 统一用本期推送时间（2026-11-17，第 1 条最新），原文发布日期另列在最后一列。
 
 | # | 主题 | 语 | 来源 | 标题 | 正文 | 原文 |
 |---|---|---|---|---|---|---|
-| 1 | AI Native Engine | 英 | arXiv·cs.CV | 用 Unity 当标准答案来考世界模型：WMEval 不看画面像不像，只看状态对不对 | 51083字 | 2026-10-27 |
-| 2 | AI Native Engine | 英 | arXiv·cs.GR | 物理驱动的角色控制器能跑了，但没人验过动作质量：这篇把它搬进 Unity3D 与 WebXR 实测 | 56994字 | 2026-10-19 |
-| 3 | AI Native Engine | 英 | NVIDIA Developer | NVIDIA 把世界模型做成「平台」：Cosmos Framework 出 recipes 与 agent skills，NIM | 17429字 | 2026-11-02 |
-| 4 | AI Rendering | 英 | AMD GPUOpen | AMD FSR「Redstone」SDK 2.4：ML 上采样下放到 RX 6000 与 Ryzen APU，还补上 Vulka | 24196字 | 2026-10-28 |
-| 5 | AI Rendering | 英 | AMD GPUOpen | FSR 上采样首次进 XBOX 主机：Full INT8 与 Lite INT8 双模型，示例可在运行时切换对比 | 10137字 | 2026-11-04 |
-| 6 | AI Rendering | 中 | 知乎 | 把 DLSS 5 接进仿真引擎：RTX 50 独占、SDK 未公开，社区只能直接调 NGX 的 feature 18 | 6603字 | 2026-10-28 |
-| 7 | AI Rendering | 英 | GitHub·apex-comp | Apex 把神经渲染做成开源跨厂商方案：FG 已 beta，SR/RR 在路上，还附一个「录制上采样输入」的对比工具 | 6611字 | 2026-11-14 |
-| 8 | AI Rendering | 英 | arXiv·cs.CV | 把手机随手拍变成电影感：FilmTogether 要同时升级光照、服装与材质，但不动构图、身份与运动 | 32319字 | 2026-10-31 |
-| 9 | AI Rendering | 英 | arXiv·cs.CV | 重打光要精确控光：直接拿路径追踪的辐照度当控制信号会带伪影，JointLight 改成「异步联合去噪」 | 34787字 | 2026-10-21 |
+| 1 | AI Native Engine | 英 | arXiv·cs.CV | 照片进去、能推的物体出来：TelePhysica 把「重建」做成会自己找物理参数、还能中途改的闭环 | 34655字 | 2026-11-16 |
+| 2 | AI Native Engine | 英 | arXiv·cs.CV | 换个引擎就得重写场景生成器？SceneAgent 把「构建过程与经验」抽成可移植的一层 | 59624字 | 2026-11-16 |
+| 3 | AI Native Engine | 英 | Unity Blog | Unity CLI 1.0 出测试版：600M 条命令里 98% 由 coding agent 发起，官方给 Claude Co | 5908字 | 2026-11-17 |
+| 4 | AI Native Engine | 英 | arXiv·cs.CV | Gamer：把感知、记忆、多步推理放进一个端到端 agent，同时应付 2D 界面与 3D 模拟世界 | 79062字 | 2026-11-16 |
+| 5 | AI Rendering | 英 | arXiv·cs.GR | 实时新视角合成别再「先优化再渲染」：DIRT 用深度补全 + 双带混合，做即拍即看的自由视角 | 41214字 | 2026-11-16 |
+| 6 | AI Rendering | 英 | arXiv·cs.GR | 角色布料的模拟太慢、参数太烦：Pose-based Neural Clothing 用姿态直接出形变，推理是实时的 | 45655字 | 2026-11-16 |
+| 7 | AI Rendering | 英 | arXiv·cs.CV | 长视频重建的注意力别再看全部帧：EcoVGGT 假设「关键 key 不看内容也能选」，做可流式的前馈重建 | 23636字 | 2026-11-16 |
+| 8 | AI Rendering | 英 | arXiv·cs.CV | 像素空间视频扩散不必复杂：JVT 只用一个大 patch 的 DiT，不要自编码器、不要级联、不要 U-Net 跳连 | 37372字 | 2026-11-16 |
+| 9 | AI Rendering | 英 | AMD GPUOpen | AMD 把 FSR 4.1.2 推进 UE 插件：支持 UE 5.3–5.8，且后续版本可随驱动升级、不必重发游戏 | 9372字 | 2026-11-16 |
+| 10 | AI Rendering | 英 | arXiv·cs.GR | SDF 转网格只要几秒：FOMOS 走纯几何的特征导向网格化，不靠 Marching Cubes 也不靠神经网络 | 52682字 | 2026-11-16 |
