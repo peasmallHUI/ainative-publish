@@ -14,5 +14,5 @@ feed 的 pubDate 统一用本期推送时间（2026-11-18，第 1 条最新）�
 | 6 | AI Native Engine | 英 | arXiv·cs.CV | 「轨迹好坏」不等于「每一步动作好不好」：LightAct 把游玩经验压成可检索的技能库，再内化进策略 | 32330字 | 2026-11-17 |
 | 7 | AI Rendering | 英 | arXiv·cs.GR | 实测材质不必每次重扫：BTF 用「一个材质 = 256 维编码 + 共享解码器」，还能在编码空间里采样出新材质 | 27998字 | 2026-11-17 |
 | 8 | AI Rendering | 英 | arXiv·cs.CV | 少步自回归视频生成还是慢：ScoutCache 无训练地同时压去噪、历史 KV 读取与缓存构建，最高 2.28× | 40373字 | 2026-11-17 |
-| 9 | AI Rendering | 英 | arXiv::cs.GR | 固定 PD 增益让「动作跟踪」与「接触力准确」互斥：ImpedanceMimic 把阻抗本身当成动作空间来学 | 44930字 | 2026-11-17 |
-| 10 | AI Rendering | 英 | arXiv::cs.CV | 人越动越糊：ReMoVe 不外加骨架，而是拿视频模型自己预测的运动去修它自己的漂移 | 56259字 | 2026-11-17 |
+| 9 | AI Rendering | 英 | arXiv·cs.GR | 固定 PD 增益让「动作跟踪」与「接触力准确」互斥：ImpedanceMimic 把阻抗本身当成动作空间来学 | 44930字 | 2026-11-17 |
+| 10 | AI Rendering | 英 | arXiv·cs.CV | 人越动越糊：ReMoVe 不外加骨架，而是拿视频模型自己预测的运动去修它自己的漂移 | 56259字 | 2026-11-17 |
