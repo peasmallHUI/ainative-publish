@@ -1,18 +1,19 @@
-# AI 引擎日报 · 2026-11-18 文章清单
+# AI 引擎日报 · 2026-11-19 文章清单
 
-共 10 条｜中文 0 / 英文 10
+共 11 条｜中文 0 / 英文 11
 
-feed 的 pubDate 统一用本期推送时间（2026-11-18，第 1 条最新），原文发布日期另列在最后一列。
+feed 的 pubDate 统一用本期推送时间（2026-11-19，第 1 条最新），原文发布日期另列在最后一列。
 
 | # | 主题 | 语 | 来源 | 标题 | 正文 | 原文 |
 |---|---|---|---|---|---|---|
-| 1 | AI Native Engine | 英 | arXiv·cs.CV | GameWM 把分工定死了：引擎守规则/状态/相机/布局，视频模型只管「长相」与交互细节 | 50019字 | 2026-11-17 |
-| 2 | AI Native Engine | 英 | arXiv·cs.CV | 流式视频模型不能「一问一答」：ALIVE 让它持续看世界，还能主动开口、也会来问你要信息 | 3413字 | 2026-11-17 |
-| 3 | AI Native Engine | 英 | arXiv·cs.CV | 箱子停在桌沿前几毫米还是后几毫米，预测会不会翻转：FlipTest 用反事实检验世界模型到底有没有「世界状态」 | 71430字 | 2026-11-17 |
-| 4 | AI Native Engine | 英 | arXiv·cs.GR | 建筑网格砍到 0.5% 面数，所有 decimator 都「化了」：RemeshingAgent 把清理-简化-验证做成带契约的 | 34983字 | 2026-11-17 |
-| 5 | AI Native Engine | 英 | arXiv·cs.CV | System-1 世界模型该长什么样：Frame First, Decode Once 用「先给坐标系、再一次解码」换实时 | 25995字 | 2026-11-17 |
-| 6 | AI Native Engine | 英 | arXiv·cs.CV | 「轨迹好坏」不等于「每一步动作好不好」：LightAct 把游玩经验压成可检索的技能库，再内化进策略 | 32330字 | 2026-11-17 |
-| 7 | AI Rendering | 英 | arXiv·cs.GR | 实测材质不必每次重扫：BTF 用「一个材质 = 256 维编码 + 共享解码器」，还能在编码空间里采样出新材质 | 27998字 | 2026-11-17 |
-| 8 | AI Rendering | 英 | arXiv·cs.CV | 少步自回归视频生成还是慢：ScoutCache 无训练地同时压去噪、历史 KV 读取与缓存构建，最高 2.28× | 40373字 | 2026-11-17 |
-| 9 | AI Rendering | 英 | arXiv·cs.GR | 固定 PD 增益让「动作跟踪」与「接触力准确」互斥：ImpedanceMimic 把阻抗本身当成动作空间来学 | 44930字 | 2026-11-17 |
-| 10 | AI Rendering | 英 | arXiv·cs.CV | 人越动越糊：ReMoVe 不外加骨架，而是拿视频模型自己预测的运动去修它自己的漂移 | 56259字 | 2026-11-17 |
+| 1 | AI Native Engine | 英 | DeepMind | Genie 4 开卖：一句话改天气、加角色、上原生音频；Genie 3 还补了长会话、全景锚定与「连起来的世界序列」 | 7645字 | 2026-11-18 |
+| 2 | AI Native Engine | 英 | arXiv·cs.CV | 代理视频粗到只有布局、细到带关节：Code World Model 2.0 让渲染器在「几步因果推理」内接住两种极端 | 45630字 | 2026-11-18 |
+| 3 | AI Native Engine | 英 | arXiv·cs.CV | 镜头转开再转回来，世界就冻住了：PanoEvo 用全景潜空间做「世界状态演化」，只在当前视角渲染 | 23982字 | 2026-11-18 |
+| 4 | AI Native Engine | 英 | arXiv·cs.CV | 自回归视频扩散慢好几个数量级：FastFrames 先 profile 推理再动手，做到交互延迟且不掉质量 | 42797字 | 2026-11-18 |
+| 5 | AI Native Engine | 英 | arXiv·cs.CV | π⁴：一个模型从随手拍的图或视频里同时给出几何、位姿、度量尺度、点轨迹与运动物体掩码 | 44317字 | 2026-11-18 |
+| 6 | AI Native Engine | 英 | arXiv·cs.CV | 看过摸过的东西，转开就忘了：EPM 给世界模型加了一份「可执行的感知记忆」，还会随动作更新含义 | 41159字 | 2026-11-18 |
+| 7 | AI Native Engine | 英 | GitHub·AI 原生引擎 | Genex 把「AI 做游戏」做成桌面 IDE：UE/Unity/Godot/Roblox/Three.js 都能进，插件市场可 | 6236字 | 2026-11-18 |
+| 8 | AI Rendering | 英 | arXiv·cs.CV | 从成片反推可编辑的三维走位：MAVE 把影片镜头变成能改的 3D 布置，还带了 50 个镜头的评测集 | 26509字 | 2026-11-18 |
+| 9 | AI Rendering | 英 | arXiv·cs.CV | 把解码器省掉：DWD 让微调后的 DiT 用一个线性头直接出像素，去噪头不再兼任「解码」 | 33878字 | 2026-11-18 |
+| 10 | AI Rendering | 英 | arXiv·cs.GR | 电影级特写要 4K 脸：生成管线只给 1K，DWD 那类超分也不行——这篇按「面部 UV + 位移」的统计特性调扩散 | 14420字 | 2026-11-18 |
+| 11 | AI Rendering | 英 | arXiv·cs.CV | 动作数据里没有力：ForceBody 把「带力矩不确定性的力」和参数化人体动作配对起来 | 31574字 | 2026-11-18 |
