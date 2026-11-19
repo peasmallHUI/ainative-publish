@@ -15,5 +15,5 @@ feed 的 pubDate 统一用本期推送时间（2026-11-19，第 1 条最新）�
 | 7 | AI Native Engine | 英 | GitHub·AI 原生引擎 | Genex 把「AI 做游戏」做成桌面 IDE：UE/Unity/Godot/Roblox/Three.js 都能进，插件市场可 | 6236字 | 2026-11-18 |
 | 8 | AI Rendering | 英 | arXiv·cs.CV | 从成片反推可编辑的三维走位：MAVE 把影片镜头变成能改的 3D 布置，还带了 50 个镜头的评测集 | 26509字 | 2026-11-18 |
 | 9 | AI Rendering | 英 | arXiv·cs.CV | 把解码器省掉：DWD 让微调后的 DiT 用一个线性头直接出像素，去噪头不再兼任「解码」 | 33878字 | 2026-11-18 |
-| 10 | AI Rendering | 英 | arXiv·cs.GR | 电影级特写要 4K 脸：生成管线只给 1K，DWD 那类超分也不行——这篇按「面部 UV + 位移」的统计特性调扩散 | 14420字 | 2026-11-18 |
+| 10 | AI Rendering | 英 | arXiv·cs.GR | 电影级特写要 4K 脸：生成管线只给 1K，直接套照片超分也不行——这篇按「面部 UV + 位移」的统计特性调扩散 | 14420字 | 2026-11-18 |
 | 11 | AI Rendering | 英 | arXiv·cs.CV | 动作数据里没有力：ForceBody 把「带力矩不确定性的力」和参数化人体动作配对起来 | 31574字 | 2026-11-18 |
