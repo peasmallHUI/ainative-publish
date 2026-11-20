@@ -1,19 +1,18 @@
-# AI 引擎日报 · 2026-11-19 文章清单
+# AI 引擎日报 · 2026-11-20 文章清单
 
-共 11 条｜中文 0 / 英文 11
+共 10 条｜中文 0 / 英文 10
 
-feed 的 pubDate 统一用本期推送时间（2026-11-19，第 1 条最新），原文发布日期另列在最后一列。
+feed 的 pubDate 统一用本期推送时间（2026-11-20，第 1 条最新），原文发布日期另列在最后一列。
 
 | # | 主题 | 语 | 来源 | 标题 | 正文 | 原文 |
 |---|---|---|---|---|---|---|
-| 1 | AI Native Engine | 英 | DeepMind | Genie 4 开卖：一句话改天气、加角色、上原生音频；Genie 3 还补了长会话、全景锚定与「连起来的世界序列」 | 7645字 | 2026-11-18 |
-| 2 | AI Native Engine | 英 | arXiv·cs.CV | 代理视频粗到只有布局、细到带关节：Code World Model 2.0 让渲染器在「几步因果推理」内接住两种极端 | 45630字 | 2026-11-18 |
-| 3 | AI Native Engine | 英 | arXiv·cs.CV | 镜头转开再转回来，世界就冻住了：PanoEvo 用全景潜空间做「世界状态演化」，只在当前视角渲染 | 23982字 | 2026-11-18 |
-| 4 | AI Native Engine | 英 | arXiv·cs.CV | 自回归视频扩散慢好几个数量级：FastFrames 先 profile 推理再动手，做到交互延迟且不掉质量 | 42797字 | 2026-11-18 |
-| 5 | AI Native Engine | 英 | arXiv·cs.CV | π⁴：一个模型从随手拍的图或视频里同时给出几何、位姿、度量尺度、点轨迹与运动物体掩码 | 44317字 | 2026-11-18 |
-| 6 | AI Native Engine | 英 | arXiv·cs.CV | 看过摸过的东西，转开就忘了：EPM 给世界模型加了一份「可执行的感知记忆」，还会随动作更新含义 | 41159字 | 2026-11-18 |
-| 7 | AI Native Engine | 英 | GitHub·AI 原生引擎 | Genex 把「AI 做游戏」做成桌面 IDE：UE/Unity/Godot/Roblox/Three.js 都能进，插件市场可 | 6236字 | 2026-11-18 |
-| 8 | AI Rendering | 英 | arXiv·cs.CV | 从成片反推可编辑的三维走位：MAVE 把影片镜头变成能改的 3D 布置，还带了 50 个镜头的评测集 | 26509字 | 2026-11-18 |
-| 9 | AI Rendering | 英 | arXiv·cs.CV | 把解码器省掉：DWD 让微调后的 DiT 用一个线性头直接出像素，去噪头不再兼任「解码」 | 33878字 | 2026-11-18 |
-| 10 | AI Rendering | 英 | arXiv·cs.GR | 电影级特写要 4K 脸：生成管线只给 1K，直接套照片超分也不行——这篇按「面部 UV + 位移」的统计特性调扩散 | 14420字 | 2026-11-18 |
-| 11 | AI Rendering | 英 | arXiv·cs.CV | 动作数据里没有力：ForceBody 把「带力矩不确定性的力」和参数化人体动作配对起来 | 31574字 | 2026-11-18 |
+| 1 | AI Native Engine | 英 | arXiv·cs.CV | 玩家改一条规则，世界就得跟着变：WorldRuler 指出两难——规则状态要持久、规则结果还得落到画面上 | 39139字 | 2026-11-19 |
+| 2 | AI Native Engine | 英 | arXiv·cs.CV | 世界状态别放在生成器的上下文里：WM^MLLM 把它存成「带修订历史的全景图」，让多模态大模型来写 | 13600字 | 2026-11-19 |
+| 3 | AI Native Engine | 英 | arXiv·cs.CV | 把场景层级里的每个单元都当成「自成一体的任务」：GTA 用一层层 agent 塔并行搭场景 | 24885字 | 2026-11-19 |
+| 4 | AI Native Engine | 英 | arXiv·cs.CV | 评测视频世界模型别用「从它自己帧里重建的参考」：StrideWorld 要求 3D 结构刚性、动作效果稳定 | 53873字 | 2026-11-19 |
+| 5 | AI Native Engine | 英 | GitHub·NVIDIA-Om | NVIDIA 把 CAD 转 USD 做成了「Agent Skill」：一个仓库只放给 agent 看的说明书与工作流契约 | 10710字 | 2026-11-19 |
+| 6 | AI Rendering | 英 | arXiv·cs.CV | 单图生成 PBR 贴图，金属度与粗糙度总是猜错：UltraTex 走级联多视图，先把「外观」剥到「物理属性」 | 36824字 | 2026-11-19 |
+| 7 | AI Rendering | 英 | arXiv·cs.CV | 重建场景只看「像不像」不够：LightHarness 让 VLM 显式推理光照，还维护一份「光源假设的修订史」 | 29355字 | 2026-11-19 |
+| 8 | AI Rendering | 英 | arXiv·cs.GR | 「模型知道的比它画出来的多」可能是个统计假象：这篇指出读出难易与「有没有隐藏知识」是两件事 | 56185字 | 2026-11-19 |
+| 9 | AI Rendering | 英 | arXiv·cs.GR | 纹理合成既要真实又要可解释：GramStatTexNet 把「分析-合成」的统计量换成学出来的，还保留金字塔结构 | 49631字 | 2026-11-19 |
+| 10 | AI Rendering | 英 | arXiv·cs.CV | 稀疏注意力别按簇共享 key：这篇发现「每个 query 自己挑」最准，于是做了逐 query 路由 | 25428字 | 2026-11-19 |
